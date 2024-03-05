@@ -1,6 +1,6 @@
-from .training import train_model
-from .data import load_pickle
-from .visualize import (
+from  .training import train_model
+from  .data import load_pickle
+from  .visualize import (
     plot_training_curves,
     show_samples,
     visualize_images,
@@ -12,4 +12,4 @@ from .visualize import (
     visualize_2d_contour,
     visualize_2d_distribs
 )
-from .statsmanager import StatsManager, StatsManagerDrawScheduler
+from  .statsmanager import StatsManager, StatsManagerDrawScheduler
