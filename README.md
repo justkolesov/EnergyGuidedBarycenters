@@ -37,9 +37,9 @@ All the experiments are issued in the form of pretty self-explanatory jupyter no
 - `notebooks/Ave_celeba_in_latent_space.ipynb` -- estimating barycenters of [**Ave, Celeba!**](https://disk.yandex.ru/d/3jdMxB789v936Q) dataset in latent space ;
 
 <p  align="center">
-  <img src= "pics/ave_1.png" width="260" />
-  <img src="pics/ave_2.png" width="230" />  
-  <img src="pics/ave_3.png" width="230" /> 
+  <img src= "pics/ave_1.png" width="250" />
+  <img src="pics/ave_2.png" width="250" />  
+  <img src="pics/ave_3.png" width="250" /> 
 </p>
 
 
