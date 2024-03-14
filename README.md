@@ -59,11 +59,11 @@ pip install -r requirements.txt
 
 - Set downloaded dataset in appropriate subfolder in `data/`.
 
-- If you run experiment in Image space, download appropriate [StyleGan2](https://github.com/NVlabs/stylegan2-ada-pytorch) model from [here](https://disk.yandex.ru/client/disk/EnergyGuidedBarycenters)(folder `StyleGan2/`).
+- If you run experiment in Image space, download appropriate [StyleGan2](https://github.com/NVlabs/stylegan2-ada-pytorch) model from [here](https://disk.yandex.ru/d/iM4YBBa4UHU9Yw) (folder `StyleGan2/`).
 
 - Set StyleGan2 model in appropriate subfolder in `SG2_ckpt/`.
 
-- Run notebook for training or take appropriate checkpoint from [here](https://disk.yandex.ru/client/disk/EnergyGuidedBarycenters) and upload them.
+- Run notebook for training or take appropriate checkpoint from [here](https://disk.yandex.ru/d/iM4YBBa4UHU9Yw) and upload them.
 
 ## Credits
 
