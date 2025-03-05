@@ -1,6 +1,6 @@
 # Energy-Guided Continuous Entropic Barycenter Estimation for General Costs
 
-This is the official `Python` implementation of the paper **Energy-Guided Continuous Entropic Barycenter Estimation for General Costs** (paper on [Arxiv](https://arxiv.org/pdf/2310.01105v2.pdf)) by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), [Petr Mokrov](https://scholar.google.com/citations?user=CRsi4IkAAAAJ&hl=ru&oi=sra), [Igor Udovichenko](https://scholar.google.com/citations?hl=ru&user=IkcYVhXfeQcC), [Milena Gazdieva](https://scholar.google.com/citations?user=h52_Zx8AAAAJ&hl=ru&oi=sra),[Anastasis Kratsios](https://scholar.google.com/citations?user=9D-bHFgAAAAJ&hl=en&newwindow=1), [Gudmund Pammer](https://scholar.google.com/citations?user=ipItetYAAAAJ&hl=ru&oi=sra), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
+This is the official `Python` implementation of the NeurIPS 2024 spotlight paper  **Energy-Guided Continuous Entropic Barycenter Estimation for General Costs** (paper on [Openreview](https://openreview.net/forum?id=JZHFRLoqDq)) by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), [Petr Mokrov](https://scholar.google.com/citations?user=CRsi4IkAAAAJ&hl=ru&oi=sra), [Igor Udovichenko](https://scholar.google.com/citations?hl=ru&user=IkcYVhXfeQcC), [Milena Gazdieva](https://scholar.google.com/citations?user=h52_Zx8AAAAJ&hl=ru&oi=sra),[Anastasis Kratsios](https://scholar.google.com/citations?user=9D-bHFgAAAAJ&hl=en&newwindow=1), [Gudmund Pammer](https://scholar.google.com/citations?user=ipItetYAAAAJ&hl=ru&oi=sra), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
 
 
 <p  align="center"><img src="pics/teaser.png" width="700" /></p>
@@ -16,7 +16,7 @@ All the experiments are issued in the form of pretty self-explanatory jupyter no
 
 - `src/` - auxiliary source code for the experiments: training, plotting, logging, etc.
 - `stylegan2/` - folder with auxiliary code for using StyleGAN2.
-- `stylegan2/notebooks` - jupyter notebooks with evaluation of barycenters on 2D and Image datasets.
+- `stylegan2/notebooks` - jupyter notebooks with evaluation of barycenters on 2D, biological single-cell data and Image datasets.
 - `data/` - folder with datasets. 
 - `SG2_ckpt/` - folder with checkpoints for trained [StyleGAN2](https://github.com/NVlabs/stylegan2-ada-pytorch) models.
 
