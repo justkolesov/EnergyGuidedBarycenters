@@ -1,4 +1,4 @@
-# Energy-Guided Continuous Entropic Barycenter Estimation for General Costs
+# Energy-Guided Continuous Entropic Barycenter Estimation for General Costs (NeurIPS 2024 Spotlight)
 
 This is the official `Python` implementation of the NeurIPS 2024 spotlight paper  **Energy-Guided Continuous Entropic Barycenter Estimation for General Costs** (paper on [Openreview](https://openreview.net/forum?id=JZHFRLoqDq)) by [Alexander Kolesov](https://scholar.google.com/citations?user=vX2pmScAAAAJ&hl=ru&oi=ao), [Petr Mokrov](https://scholar.google.com/citations?user=CRsi4IkAAAAJ&hl=ru&oi=sra), [Igor Udovichenko](https://scholar.google.com/citations?hl=ru&user=IkcYVhXfeQcC), [Milena Gazdieva](https://scholar.google.com/citations?user=h52_Zx8AAAAJ&hl=ru&oi=sra),[Anastasis Kratsios](https://scholar.google.com/citations?user=9D-bHFgAAAAJ&hl=en&newwindow=1), [Gudmund Pammer](https://scholar.google.com/citations?user=ipItetYAAAAJ&hl=ru&oi=sra), [Evgeny Burnaev](https://scholar.google.ru/citations?user=pCRdcOwAAAAJ&hl=ru) and [Alexander Korotin](https://scholar.google.com/citations?user=1rIIvjAAAAAJ&hl=ru&oi=sra).
 
@@ -26,6 +26,9 @@ All the experiments are issued in the form of pretty self-explanatory jupyter no
 - `stylegan2/notebooks/Gauss2D.ipynb` -- evaluating metrics of our method in Gaussian case.
 
 <p align="center"><img src="pics/twister.png" width="700" /></p>
+### Experiments with biological data
+
+- `stylegan2/notebooks/SingleCell.ipynb` - Interpolation between Single-Cell populations.
 
 ### High-Dimensional estimating barycenters of Ave,Celeba! dataset
 
